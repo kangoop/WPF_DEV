@@ -1,0 +1,68 @@
+﻿<Window x:Class="drag_and_drop_app.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:drag_and_drop_app"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="900">
+
+    <Window.Resources>
+        <Style TargetType="RadioButton">
+            <Setter Property="FontSize" Value="15"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel x:Name="tab" Grid.Row="0" Margin="0,0,0,194" Grid.RowSpan="3">
+            <RadioButton Content="TEST1" Click="RadioButton_Click" >
+
+            </RadioButton>
+            <RadioButton Content="TEST2" Click="RadioButton_Click" >
+
+            </RadioButton>
+
+            <RadioButton Content="TEST3" Click="RadioButton_Click" >
+
+            </RadioButton>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Slider x:Name="Red" Orientation="Vertical" Minimum="0" Maximum="255" 
+                    TickPlacement="BottomRight" 
+                    TickFrequency="5"
+                    
+                    >
+            </Slider>
+
+            <Slider x:Name="Green" Orientation="Vertical" Minimum="0" Maximum="255" 
+                    TickPlacement="BottomRight" 
+                    TickFrequency="5"
+                    >
+
+            </Slider>
+
+
+            <Slider x:Name="Blue" Orientation="Vertical" Minimum="0" Maximum="255" 
+                    TickPlacement="BottomRight" 
+                    TickFrequency="5">
+            </Slider>
+            <Border VerticalAlignment="Center" BorderThickness="3" BorderBrush="Gray">
+                <TextBlock  MinWidth="100">
+                
+                </TextBlock>
+            </Border>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Canvas>
+                
+            </Canvas>
+        </StackPanel>
+    </Grid>
+</Window>

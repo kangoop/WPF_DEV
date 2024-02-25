@@ -1,0 +1,7 @@
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF_SAMPLE_DATABINDING\bindingProjectSetup\bin\Debug\cab1.cab
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF_SAMPLE_DATABINDING\bindingProjectSetup\bin\Debug\bindingProjectSetup.msi
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF_SAMPLE_DATABINDING\bindingProjectSetup\bin\Debug\bindingProjectSetup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\bindingProjectSetup.wixproj.BindContentsFileListnull.txt
+obj\Debug\bindingProjectSetup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\bindingProjectSetup.wixproj.BindBuiltOutputsFileListnull.txt

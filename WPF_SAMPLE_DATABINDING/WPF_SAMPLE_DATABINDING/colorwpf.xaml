@@ -1,0 +1,115 @@
+﻿<Window x:Class="WPF_SAMPLE_DATABINDING.colorwpf"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_SAMPLE_DATABINDING" 
+        mc:Ignorable="d"
+        Title="colorwpf" Height="450" Width="800">
+
+    <Window.DataContext>
+        <local:ColorDescriptorContext/>
+    </Window.DataContext>
+
+    <Window.Resources>
+        <DataTemplate x:Key="ColorTemplate">
+            <StackPanel Orientation="Horizontal">
+                <Ellipse Width="80" Height="40">
+                    <Ellipse.Fill>
+                        <SolidColorBrush Color="{Binding color}"></SolidColorBrush>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <TextBlock Text="{Binding Name}"
+                   Margin="20,10,0,10"/>
+            </StackPanel>
+        </DataTemplate>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"></BooleanToVisibilityConverter>
+    </Window.Resources>
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+
+
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+
+        <ListBox ItemsSource="{Binding list_colors}"
+                 Grid.Row="0"
+                 Margin="20"
+                 HorizontalAlignment="Left"
+                 VerticalAlignment="Top"
+                 ScrollViewer.HorizontalScrollBarVisibility="Visible"
+                 ScrollViewer.VerticalScrollBarVisibility="Visible">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Ellipse Width="80" Height="40">
+                            <Ellipse.Fill>
+                                <SolidColorBrush Color="{Binding color}"></SolidColorBrush>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <TextBlock Text="{Binding Name}"
+                                   Margin="20,10,0,10"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+
+        <StackPanel
+            Orientation="Vertical"
+            Grid.Row="1"
+            Grid.Column="0">
+            
+         <ComboBox ItemsSource="{Binding list_colors}"
+         
+         SelectedItem="{Binding selectColor,Mode=TwoWay}"
+         Margin="20"
+         HorizontalAlignment="Left"
+         VerticalAlignment="Top"
+         Width="Auto"
+         ScrollViewer.HorizontalScrollBarVisibility="Visible"
+         ScrollViewer.VerticalScrollBarVisibility="Visible"
+         ItemTemplate="{StaticResource ColorTemplate}">
+            </ComboBox>
+
+            <Button Click="btn_favoriteAdd"
+                    Margin="0,20,0,20"
+                    >즐겨찾기 추가</Button>
+
+        </StackPanel>
+
+        <ScrollViewer Grid.Row="1" Grid.Column="1">
+            <StackPanel Orientation="Vertical">
+            <ListBox ItemsSource="{Binding favorite_colors}"
+         
+             Margin="20"
+             HorizontalAlignment="Left"
+             VerticalAlignment="Top"
+             ScrollViewer.HorizontalScrollBarVisibility="Visible"
+             ScrollViewer.VerticalScrollBarVisibility="Visible"
+            SelectedItem="{Binding SelectedFavoriteColor,Mode=TwoWay}"
+            ItemTemplate="{StaticResource ColorTemplate}">
+            </ListBox>
+
+            <Button Click="btn_favoriteRemove"
+                    IsEnabled="{Binding IsRemoveFavoriteEnabled}"
+                    Content="즐겨찾기 제거"
+                       />
+            </StackPanel>
+        </ScrollViewer>
+
+
+    </Grid>
+</Window>

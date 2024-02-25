@@ -1,0 +1,3 @@
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF_SAMPLE_DATABINDING\bindingProjectSetup\bin\Debug\cab1.cab
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF_SAMPLE_DATABINDING\bindingProjectSetup\bin\Debug\bindingProjectSetup.msi
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF_SAMPLE_DATABINDING\bindingProjectSetup\bin\Debug\bindingProjectSetup.wixpdb

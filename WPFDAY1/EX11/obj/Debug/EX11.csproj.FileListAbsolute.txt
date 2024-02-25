@@ -1,0 +1,15 @@
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\bin\Debug\EX11.exe.config
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\bin\Debug\EX11.exe
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\bin\Debug\EX11.pdb
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\obj\Debug\EX11.csproj.AssemblyReference.cache
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\obj\Debug\MainWindow.g.cs
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\obj\Debug\App.g.cs
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\obj\Debug\EX11_MarkupCompile.cache
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\obj\Debug\EX11_MarkupCompile.lref
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\obj\Debug\MainWindow.baml
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\obj\Debug\EX11.g.resources
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\obj\Debug\EX11.Properties.Resources.resources
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\obj\Debug\EX11.csproj.GenerateResource.cache
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\obj\Debug\EX11.csproj.CoreCompileInputs.cache
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\obj\Debug\EX11.exe
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY1\EX11\obj\Debug\EX11.pdb

@@ -1,0 +1,33 @@
+﻿<Window x:Class="WPF5_DAY7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF5_DAY7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}">
+    
+    
+    <!--<Window.Resources>
+        <CollectionViewSource x:Key="EmpData" Source="{Binding employees}" />
+    </Window.Resources>
+    <Grid>
+        <ListBox ItemsSource="{Binding Source={StaticResource EmpData}}" DisplayMemberPath="EmployeeName" />
+    </Grid>-->
+    
+    <Window.Resources>
+        <CollectionViewSource x:Key="EmpData" Source="{Binding employees}"></CollectionViewSource>
+
+        <Style TargetType="ListBoxItem">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding EmployeeName}" Value="Frank Hasmpton">
+                    <Setter Property="Foreground" Value="Red"></Setter>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <ListBox ItemsSource="{Binding Source={StaticResource EmpData} }" DisplayMemberPath="EmployeeName" ></ListBox>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\bin\Debug\WPF5_DAY7.exe.config
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\bin\Debug\WPF5_DAY7.exe
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\bin\Debug\WPF5_DAY7.pdb
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\obj\Debug\WPF5_DAY7.csproj.AssemblyReference.cache
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\obj\Debug\MainWindow.g.cs
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\obj\Debug\App.g.cs
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\obj\Debug\WPF5_DAY7_MarkupCompile.cache
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\obj\Debug\WPF5_DAY7_MarkupCompile.lref
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\obj\Debug\MainWindow.baml
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\obj\Debug\WPF5_DAY7.g.resources
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\obj\Debug\WPF5_DAY7.Properties.Resources.resources
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\obj\Debug\WPF5_DAY7.csproj.GenerateResource.cache
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\obj\Debug\WPF5_DAY7.csproj.CoreCompileInputs.cache
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\obj\Debug\WPF5_DAY7.exe
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPFDAY5\WPF5_DAY7\obj\Debug\WPF5_DAY7.pdb

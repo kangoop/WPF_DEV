@@ -1,0 +1,27 @@
+﻿<Window x:Class="drag_and_drop_app.NewWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:drag_and_drop_app"
+        mc:Ignorable="d"
+        Title="NewWindow"  Height="600" Width="900"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Opacity="0.7"
+        >
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0">
+            <Button Content="Exit" Height="79" Width="186" Click="Button_Click"/>
+        </StackPanel>
+
+        <Canvas Grid.Row="1">
+            <Ellipse x:Name="ellipse" Width="100" Height="100" Fill="Green" Canvas.Left="38" Canvas.Top="40"/>
+        </Canvas>
+    </Grid>
+</Window>

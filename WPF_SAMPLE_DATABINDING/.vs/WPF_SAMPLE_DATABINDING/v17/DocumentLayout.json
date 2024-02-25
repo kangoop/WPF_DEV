@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc1\\OneDrive\\Desktop\\Local\\Dev\\wpf\\wpf_dev\\WPF_SAMPLE_DATABINDING\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{395B290A-6602-467A-872E-12C347601A30}|DataBinding\\DataBinding.csproj|c:\\users\\pc1\\onedrive\\desktop\\local\\dev\\wpf\\wpf_dev\\wpf_sample_databinding\\databinding\\colorwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{395B290A-6602-467A-872E-12C347601A30}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\colorwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395B290A-6602-467A-872E-12C347601A30}|DataBinding\\DataBinding.csproj|c:\\users\\pc1\\onedrive\\desktop\\local\\dev\\wpf\\wpf_dev\\wpf_sample_databinding\\databinding\\colorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{395B290A-6602-467A-872E-12C347601A30}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\colorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395B290A-6602-467A-872E-12C347601A30}|DataBinding\\DataBinding.csproj|c:\\users\\pc1\\onedrive\\desktop\\local\\dev\\wpf\\wpf_dev\\wpf_sample_databinding\\databinding\\colordescriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395B290A-6602-467A-872E-12C347601A30}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\colordescriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395B290A-6602-467A-872E-12C347601A30}|DataBinding\\DataBinding.csproj|c:\\users\\pc1\\onedrive\\desktop\\local\\dev\\wpf\\wpf_dev\\wpf_sample_databinding\\databinding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{395B290A-6602-467A-872E-12C347601A30}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395B290A-6602-467A-872E-12C347601A30}|DataBinding\\DataBinding.csproj|c:\\users\\pc1\\onedrive\\desktop\\local\\dev\\wpf\\wpf_dev\\wpf_sample_databinding\\databinding\\colorwindowcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395B290A-6602-467A-872E-12C347601A30}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\colorwindowcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColorDescriptor.cs",
+              "DocumentMoniker": "C:\\Users\\pc1\\OneDrive\\Desktop\\Local\\Dev\\wpf\\wpf_dev\\WPF_SAMPLE_DATABINDING\\DataBinding\\ColorDescriptor.cs",
+              "RelativeDocumentMoniker": "DataBinding\\ColorDescriptor.cs",
+              "ToolTip": "C:\\Users\\pc1\\OneDrive\\Desktop\\Local\\Dev\\wpf\\wpf_dev\\WPF_SAMPLE_DATABINDING\\DataBinding\\ColorDescriptor.cs",
+              "RelativeToolTip": "DataBinding\\ColorDescriptor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T12:39:45.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pc1\\OneDrive\\Desktop\\Local\\Dev\\wpf\\wpf_dev\\WPF_SAMPLE_DATABINDING\\DataBinding\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DataBinding\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pc1\\OneDrive\\Desktop\\Local\\Dev\\wpf\\wpf_dev\\WPF_SAMPLE_DATABINDING\\DataBinding\\MainWindow.xaml",
+              "RelativeToolTip": "DataBinding\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-25T12:39:43.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColorWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc1\\OneDrive\\Desktop\\Local\\Dev\\wpf\\wpf_dev\\WPF_SAMPLE_DATABINDING\\DataBinding\\ColorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DataBinding\\ColorWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pc1\\OneDrive\\Desktop\\Local\\Dev\\wpf\\wpf_dev\\WPF_SAMPLE_DATABINDING\\DataBinding\\ColorWindow.xaml.cs",
+              "RelativeToolTip": "DataBinding\\ColorWindow.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T12:15:29.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pc1\\OneDrive\\Desktop\\Local\\Dev\\wpf\\wpf_dev\\WPF_SAMPLE_DATABINDING\\DataBinding\\ColorWindow.xaml",
+              "RelativeDocumentMoniker": "DataBinding\\ColorWindow.xaml",
+              "ToolTip": "C:\\Users\\pc1\\OneDrive\\Desktop\\Local\\Dev\\wpf\\wpf_dev\\WPF_SAMPLE_DATABINDING\\DataBinding\\ColorWindow.xaml",
+              "RelativeToolTip": "DataBinding\\ColorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-25T12:15:28.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColorWindowContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc1\\OneDrive\\Desktop\\Local\\Dev\\wpf\\wpf_dev\\WPF_SAMPLE_DATABINDING\\DataBinding\\ColorWindowContext.cs",
+              "RelativeDocumentMoniker": "DataBinding\\ColorWindowContext.cs",
+              "ToolTip": "C:\\Users\\pc1\\OneDrive\\Desktop\\Local\\Dev\\wpf\\wpf_dev\\WPF_SAMPLE_DATABINDING\\DataBinding\\ColorWindowContext.cs",
+              "RelativeToolTip": "DataBinding\\ColorWindowContext.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T12:15:23.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

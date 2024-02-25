@@ -1,0 +1,13 @@
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF4\WPF4_1\bin\Debug\WPF4_1.dll
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF4\WPF4_1\bin\Debug\WPF4_1.pdb
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF4\WPF4_1\obj\Debug\WPF4_1.csproj.AssemblyReference.cache
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF4\WPF4_1\obj\Debug\UserControl1.g.cs
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF4\WPF4_1\obj\Debug\WPF4_1_MarkupCompile.cache
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF4\WPF4_1\obj\Debug\WPF4_1_MarkupCompile.lref
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF4\WPF4_1\obj\Debug\UserControl1.baml
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF4\WPF4_1\obj\Debug\WPF4_1.g.resources
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF4\WPF4_1\obj\Debug\WPF4_1.Properties.Resources.resources
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF4\WPF4_1\obj\Debug\WPF4_1.csproj.GenerateResource.cache
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF4\WPF4_1\obj\Debug\WPF4_1.csproj.CoreCompileInputs.cache
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF4\WPF4_1\obj\Debug\WPF4_1.dll
+C:\Users\pc1\OneDrive\Desktop\Local\Dev\wpf\wpf_dev\WPF4\WPF4_1\obj\Debug\WPF4_1.pdb
